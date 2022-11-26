@@ -1,0 +1,30 @@
+Module 9 : React Native, Expo
+
+1) Install & setup dev environment
+https://reactnative.dev/docs/environment-setup
+
+2) Expo : https://expo.dev/
+
+3) Github repo : https://github.com/webmastervishal/react-native-nov
+
+4) Difference between React JS and React Native
+
+https://webcast.airdroid.com/
+
+=============================================================================
+                            React JS                    React Native
+=============================================================================
+CSS Styling           |  - Inline css                | - Inline & Object
+                      |  - Style object  
+                      |  - external
+Apply style prop      | className                    | style
+Create style object   |  Normal object               | using StyleSheet.create() method
+Default css property  |  Free to use flexbox         | bydefault uses flexbox
+Default flex property |  -                           | by default flexDirection is column
+Create section        | <div /> Tag                  | <View /> component
+Render text           | <p> <h1> Tag                 | <Text /> component
+Input Tag             |  html input Tag              | <TextInput /> component
+Input change event    | html onChange event           | onChangeText event
+Button Tag            | html button Tag              | <Button /> component
+Button click event    | html onClick event           | onPress event
+Rendering list        | using html <ul><li> & map()  | using <Flatlist /> component
