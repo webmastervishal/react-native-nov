@@ -9,6 +9,8 @@ https://reactnative.dev/docs/environment-setup
 
 4) Difference between React JS and React Native
 
+5) https://blog.expo.dev/media-queries-with-react-native-for-ios-android-and-web-e0b73ed5777b
+
 https://webcast.airdroid.com/
 
 =============================================================================
@@ -28,3 +30,14 @@ Input change event    | html onChange event           | onChangeText event
 Button Tag            | html button Tag              | <Button /> component
 Button click event    | html onClick event           | onPress event
 Rendering list        | using html <ul><li> & map()  | using <Flatlist /> component
+
+
+Module 10: 
+
+1) https://reactnavigation.org/
+2) https://reactnative.dev/docs/asyncstorage
+3) https://reactnative.dev/docs/navigation
+4) https://reactnative.dev/docs/signed-apk-android
+5) https://github.com/sudheerj/reactjs-interview-questions
+6) https://redux-toolkit.js.org/introduction/getting-started
+7) https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/
